@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rajat 👋
 
-<!--
-**Rajatbhatt1310/Rajatbhatt1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student passionate about building web applications using React and JavaScript.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript (ES6+)
+- React.js
+- REST API Integration
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- 🔐 Password Generator (React)
+- 🌦 Weather App (API based)
+- 📊 Smart Dashboard System
+- 🐢 Turtle Game (Python)
+
+## 📫 Connect with me
+- GitHub: https://github.com/Rajatbhatt1310
+- LinkedIn: https://linkedin.com/in/rajatbhatt1310
